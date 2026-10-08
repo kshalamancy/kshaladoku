@@ -1,0 +1,1 @@
+"""Kshaladoku Sudoku puzzle editor."""

@@ -1,2 +1,7 @@
 .venv/
 prompt.md
+__pycache__/
+*.py[cod]
+build/
+dist/
+.vscode
